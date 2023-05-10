@@ -6,7 +6,7 @@
           <div class="out-border">
             <div class="layout-title">后台项目</div>
             <div class="color-main address-content">
-              <a href="https://github.com/macrozheng/mall">mall</a>
+              <a href="https://github.com/dadaloser/mall">mall</a>
             </div>
           </div>
         </el-col>
@@ -14,7 +14,7 @@
           <div class="out-border">
             <div class="layout-title">前端项目</div>
             <div class="color-main address-content">
-              <a href="https://github.com/macrozheng/chatgptx-admin-web">chatgptx-admin-web</a>
+              <a href="https://github.com/dadaloser/chatgptx-admin-web">chatgptx-admin-web</a>
             </div>
           </div>
         </el-col>
